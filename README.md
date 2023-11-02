@@ -6,6 +6,9 @@
 ##### Install instructions
 - Download setup.exe and setup.msi
 - run setup.exe
+- Taitruss will be installed as a standard windows app, which can be accessed through the search feature, I did not set the installer to create a shortcut.  uninstall can be done through add or remove programs
+- Adjust volume down to start, as the audio are all WAV files, and the output seems quite high.
+  
   
 
 ## Project Goal
